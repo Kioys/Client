@@ -1,0 +1,9 @@
+C:\Users\Mati\source\repos\Client\Client\bin\Release\Client.exe
+C:\Users\Mati\source\repos\Client\Client\bin\Release\Client.pdb
+C:\Users\Mati\source\repos\Client\Client\obj\Release\Client.Form1.resources
+C:\Users\Mati\source\repos\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Mati\source\repos\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Mati\source\repos\Client\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Mati\source\repos\Client\Client\obj\Release\Client.exe
+C:\Users\Mati\source\repos\Client\Client\obj\Release\Client.pdb
+C:\Users\Mati\source\repos\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache

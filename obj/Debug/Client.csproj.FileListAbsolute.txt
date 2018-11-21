@@ -1,0 +1,18 @@
+C:\Users\Mati\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\Mati\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\Mati\source\repos\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Mati\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Mati\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Mati\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Mati\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Mati\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\Mati\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Respaldo\source 2\Client\Client\obj\Debug\Client.pdb
